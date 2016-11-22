@@ -1,2 +1,4 @@
 # hello-world
-Repository to start hello world implementation
+Repository to learn "hello world" implementation in angular.js
+
+This is feature-1 branch which is a clone of master.
